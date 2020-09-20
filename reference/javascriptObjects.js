@@ -10,7 +10,7 @@ function createCircle(radius, location){
             console.log('draw')
         }             
     }; 
-};
+}; 
 
 
 const circle1 = createCircle(1);

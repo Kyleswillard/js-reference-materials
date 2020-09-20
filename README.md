@@ -17,3 +17,9 @@ This content is extremely rough, and will not really be cleaned up.
 - Landscape or portrait - figure out if image is landscape or portrait by height vs length
 - Odd or Even - determines if a range of numbers are odd or even and console.logs them
 - Max of Two - determines what the highest number is out of 2 user inputed numbers. Console.logs them.
+
+
+### Attribution
+Please note that a number of these exercises were taken from a course from Codewithmosh.com.
+I did not design, or make these exercises, simply completed them, then gave a blank canvas for others to practice. 
+Please check out Mosh's site if you are interested in some quality instruction. 
